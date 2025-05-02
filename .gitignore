@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Virtual environments
+venv/
+.env/
+env/
+*.env
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Datasets and large files
+spam_dataset.csv
+*.csv
+*.pkl
+
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and caches
+*.log
+*.cache
+pip-log.txt
+
+# Streamlit
+.streamlit/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.pdf
